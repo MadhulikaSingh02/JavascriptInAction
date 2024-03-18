@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+}
+body {
+  color: black;
+  background-color: white;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: solid 1px #aaa;
+  background-color: #cdbfbf;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  min-width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  text-align: center;
+  border: solid 1px rgb(22, 22, 22);
+  color: #1b1b1b;
+}
+main {
+  padding: 1rem;
+  background-color: #b2acac;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-link {
+  background-color: rgb(222, 232, 237);
+  color: #1b1b1b;
+  text-decoration: none;
+  border: 2px solid #212121;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 5px 0 0 0;
+}
