@@ -7,3 +7,4 @@
 5. Rock Paper Scissors
 6. Tic Tac Toe
 7. Currency Converter
+8. Unlimited Color Generator
