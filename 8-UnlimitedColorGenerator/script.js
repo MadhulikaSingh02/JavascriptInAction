@@ -2,7 +2,7 @@ const start = document.querySelector("#start");
 const stop = document.querySelector("#stop");
 const main = document.querySelector("main");
 const colorDiv = document.querySelector(".color");
-console.log(colorDiv);
+
 let timer;
 start.addEventListener(
   "click",
