@@ -10,7 +10,7 @@ buttons.forEach((button) => {
         case "grey":
           body.style.backgroundColor = chosenColor;
           break;
-        case "olive":
+        case "maroon":
           body.style.backgroundColor = chosenColor;
           break;
         case "yellow":
